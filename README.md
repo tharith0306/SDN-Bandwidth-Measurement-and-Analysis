@@ -128,32 +128,7 @@ timestamp,datapath_id,port_no,rx_bps,tx_bps
 
 📊 Performance Analysis
 
-Metric
-Linear
-Star (1 flow)
-Star (2 flows)
-Tree (intra)
-Tree (inter)
-Throughput
-~9.5 Mbps
-~9.5 Mbps
-~4.7 Mbps
-~9.5 Mbps
-~9.5 Mbps
-Latency
-~12 ms
-~4 ms
-~4 ms
-~10 ms
-~11 ms
-Bottleneck
-Series links
-Switch
-Shared link
-Edge link
-Core link
-
-
+<img width="892" height="197" alt="image" src="https://github.com/user-attachments/assets/75053906-b031-4d99-9264-9bed4e253f39" />
 
 
 
