@@ -6,7 +6,7 @@ Course: Computer Networks - UE24CS252B
 PES University
 
 Description:
-    This Ryu controller implements a learning switch with:
+    This pox controller implements a learning switch with:
     - Packet_in event handling for flow rule installation
     - Per-port and per-flow statistics polling (every 5 seconds)
     - Bandwidth calculation from byte counters
