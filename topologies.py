@@ -29,15 +29,7 @@ Description:
           h1  h2       h3  h4
         Demonstrates: inter-switch bandwidth vs intra-switch bandwidth
 
-Usage:
-    # Run with Ryu controller (start controller first):
-    #   ryu-manager bandwidth_controller.py
-    #
-    # Then run this script:
-    sudo python3 topologies.py --topo [linear|star|tree] [--bw <Mbps>]
 
-    # Or use the interactive menu (no arguments):
-    sudo python3 topologies.py
 """
 
 #!/usr/bin/env python3
